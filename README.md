@@ -94,15 +94,18 @@ Order in Layer
 ## 專案截圖
 
 ### Unity 專案畫面
-<img width="2048" height="1211" alt="image" src="https://github.com/user-attachments/assets/d750272f-e1e5-4545-b58c-a167034e1230" />
 
 <img width="2048" height="1211" alt="image" src="https://github.com/user-attachments/assets/a3072000-fb79-4f94-b7e8-ca0317ac6f61" />
 
+<img width="2048" height="1211" alt="image" src="https://github.com/user-attachments/assets/d750272f-e1e5-4545-b58c-a167034e1230" />
+
+
 ## GitHub 連結
 
-https://github.com/你的帳號/1151VR-HW2-學號-姓名
-
+[https://github.com/li07777/1151VR-HW2-414262404--
+](https://github.com/li07777/1151VR-HW2-414262404--)
 
 ## YouTube 連結
 
-https://youtu.be/你的影片代碼
+[https://youtu.be/1D1H7AHi0bM
+](https://youtu.be/1D1H7AHi0bM)
