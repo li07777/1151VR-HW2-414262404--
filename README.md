@@ -19,8 +19,8 @@ Unity 2D 人物移動實作
 
 ## 二、使用工具
 
-- Unity 6
-- C#
+- Unity
+- C
 - Visual Studio
 - GitHub
 - GitHub Desktop
@@ -55,7 +55,7 @@ Unity 2D 人物移動實作
 
 首先使用 Unity Hub 建立新的 2D 專案。
 
-建立完成後進入 Unity Editor，確認場景中包含 Main Camera 與 2D 相關設定。
+建立完成後進入 Unity Editor。
 
 ---
 
@@ -68,7 +68,6 @@ Unity 2D 人物移動實作
 - Texture Type：Sprite (2D and UI)
 - Sprite Mode：Single
 
-完成後按下 Apply。
 
 接著將人物圖片拖曳到 Scene 中，建立人物 GameObject。
 
