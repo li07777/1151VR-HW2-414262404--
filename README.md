@@ -1,4 +1,4 @@
-# 1151VR-HW2
+# 1151VR-HW2-414262404-李姍霓
 
 ## 作業名稱
 Unity 2D 人物移動實作
@@ -89,3 +89,19 @@ Unity 2D 人物移動實作
 
 ```text
 Order in Layer
+
+## 專案截圖
+
+### Unity 專案畫面
+<img width="2048" height="1211" alt="image" src="https://github.com/user-attachments/assets/d750272f-e1e5-4545-b58c-a167034e1230" />
+
+<img width="2048" height="1211" alt="image" src="https://github.com/user-attachments/assets/a3072000-fb79-4f94-b7e8-ca0317ac6f61" />
+
+## GitHub 連結
+
+https://github.com/你的帳號/1151VR-HW2-學號-姓名
+
+
+## YouTube 連結
+
+https://youtu.be/你的影片代碼
